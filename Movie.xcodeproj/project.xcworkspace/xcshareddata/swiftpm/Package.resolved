@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "jetpack-paging-for-swiftui",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/hhp227/Jetpack-Paging-for-SwiftUI.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "ae6ff6d3d486e103c90a765f3f97a81e7b304cdb"
+      }
+    }
+  ],
+  "version" : 2
+}
